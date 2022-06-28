@@ -1,0 +1,35 @@
+.heading {
+  color: red;
+}
+.heading2 {
+  color: red;
+  font-style: italic;
+}
+.heading3 {
+  color: brown;
+}
+mark {
+  background-color: yellow;
+}
+.head {
+  font-style: italic;
+  text-decoration: underline;
+}
+.heading4 {
+  color: red;
+  font-style: italic;
+}
+.heading5 {
+  color: brown;
+  letter-spacing: 4px;
+}
+p {
+  color: red;
+}
+span {
+  text-decoration: line-through;
+}
+a{
+    color: red;
+    font-style: italic;
+}
